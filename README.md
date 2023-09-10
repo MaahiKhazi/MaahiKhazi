@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Maahi, A creative and driven third year B.Tech undergrad at Indian Institute of Information Technology
+Design and Manufacturing, Kurnool.i Possess a strong set of technical skills, language skills and soft
+skill
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaahiKhazi&theme=monokai_icons=true)
