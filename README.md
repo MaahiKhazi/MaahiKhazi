@@ -18,4 +18,4 @@ I'm Maahi, A creative and driven third year B.Tech undergrad at Indian Institute
 Design and Manufacturing, Kurnool.i Possess a strong set of technical skills, language skills and soft
 skill
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaahiKhazi&theme=monokai_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaahiKhazi&?theme=monokai_icons=true)
