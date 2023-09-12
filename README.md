@@ -28,4 +28,5 @@ Skills:
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaahiKhazi&theme=monokai&show_icons=true)
+![Maahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaahiKhazi&theme=monokai&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaahiKhazi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
