@@ -11,7 +11,7 @@ A creative and driven third year B.Tech undergrad at Indian Institute of Informa
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/maahi-khazi-898421228/"><img align="left" src="https://raw.githubusercontent.com/MaahiKhazi/MaahiKhazi/main/linkedin.svg" alt="Maahi | LinkedIn" width="21px"/></a>
-
+</br>
 Skills: REACT / JS / HTML / CSS / ML / DL
 
 - 🔭 I’m currently working on this page. 
