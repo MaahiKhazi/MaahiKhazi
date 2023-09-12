@@ -5,7 +5,12 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MaahiKhazi/count.svg" />
 </p>
+
 A creative and driven third year B.Tech undergrad at Indian Institute of Information Technology Design and Manufacturing, Kurnool. I possess a strong set of technical skills, language skills and soft skills.
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/maahi-khazi-898421228/"><img align="left" src="https://raw.githubusercontent.com/MaahiKhazi/MaahiKhazi/main/linkedin.svg" alt="Maahi | LinkedIn" width="21px"/></a>
 
 Skills: REACT / JS / HTML / CSS / ML / DL
 
