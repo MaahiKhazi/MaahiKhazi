@@ -7,6 +7,7 @@
 </p>
 
 Hello! I'm Maahi Khazi, a passionate Software Developer with a good background in computer science and a drive to innovate.
+</br>
 📚 Education: Pursuing a BTech in Computer Science at IIITDM Kurnool.
 My journey in the world of technology has equipped me with a diverse set of skills and experiences, making me a versatile contributor to any project or team.
 
