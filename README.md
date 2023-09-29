@@ -6,7 +6,9 @@
   <img src="https://profile-counter.glitch.me/MaahiKhazi/count.svg" />
 </p>
 
-A creative and driven third year B.Tech undergrad at Indian Institute of Information Technology Design and Manufacturing, Kurnool. I possess a strong set of technical skills, language skills and soft skills.
+Hello! I'm Maahi Khazi, a passionate Software Developer with a good background in computer science and a drive to innovate.
+📚 Education: Pursuing a BTech in Computer Science at IIITDM Kurnool.
+My journey in the world of technology has equipped me with a diverse set of skills and experiences, making me a versatile contributor to any project or team.
 
 ### 🤝 Connect with me:
 
